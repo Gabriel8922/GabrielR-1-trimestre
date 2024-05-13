@@ -1,0 +1,57 @@
+corpo {
+
+    família de fontes: Arial, sem serifa;
+
+    cor de fundo: #f0f0f0; /Cor de fundo */
+
+    cor: #333; /* Cor do texto */
+
+    .conteudo-principal {
+
+        alinhamento de texto: centro;
+
+        margem superior: 50px;
+
+    }
+
+    título-principal (
+
+        cor: #007bff; /* Cor do título */
+
+        imagem (
+
+            largura máxima: 100%;
+
+            altura: automático;
+
+            margem: 20px 0;
+
+            botoes (
+
+                margem superior: 20px;
+
+                botão {
+
+                    cor de fundo: #007bff; /* Cor de fundo do botão */
+
+                    cor: #fff; /* Cor do texto do botão */
+
+                    preenchimento: 10px 20px;
+
+                    fronteira: nenhuma;
+
+                    raio da borda: 5px;
+
+                    margem: 0 5px;
+
+                    cursor: ponteiro;
+
+                    tamanho da fonte: 16px; /* Tamanho da fonte */
+
+                }
+                }
+            )
+        )
+    )
+    }
+}
